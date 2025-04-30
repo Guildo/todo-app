@@ -1,6 +1,6 @@
 # To-Do App
 
-Este é um aplicativo simples de lista de tarefas (To-Do App) desenvolvido com [insira a tecnologia/language usada aqui, ex: JavaScript, React, Node.js, etc.]. Ele permite que os usuários gerenciem suas tarefas de forma eficiente, com funcionalidades básicas como adicionar, editar, excluir e marcar tarefas como concluídas.
+Este é um aplicativo simples de lista de tarefas (To-Do App) que auxilia os usuários a gerenciarem suas tarefas de forma eficiente, com funcionalidades básicas como adicionar, editar, excluir e marcar tarefas como concluídas.
 
 ![image](https://github.com/user-attachments/assets/e46d46ed-5028-42df-85be-7408a1aa22fa)
 
